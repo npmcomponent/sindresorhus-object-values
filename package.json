@@ -1,24 +1,7 @@
 {
-  "name": "object-values",
-  "version": "0.1.1",
+  "name": "sindresorhus-object-values",
   "description": "Get the values of an object",
-  "license": "MIT",
-  "main": "object-values.js",
-  "repository": "sindresorhus/object-values",
-  "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "http://sindresorhus.com"
-  },
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "scripts": {
-    "test": "mocha"
-  },
-  "files": [
-    "object-values.js"
-  ],
+  "version": "0.1.1",
   "keywords": [
     "object",
     "values",
@@ -27,7 +10,7 @@
     "properties",
     "browser"
   ],
-  "devDependencies": {
-    "mocha": "*"
-  }
+  "main": "object-values.js",
+  "dependencies": {},
+  "license": "MIT"
 }
